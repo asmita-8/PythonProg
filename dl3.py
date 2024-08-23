@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
 
 
-##Back Propagation 1 (Hard code using symbol concept of sympy)
+##Back Propagation 1 (using symbol concept of sympy)
 import sympy as sp
 def back_prop(x, y, z):
     ###Defining symbolic variables
@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
 
 
-##Backpropagation 1 (calculating the gradient for each variable wrt f)----->HARD CODE
+##Backpropagation 1 (calculating the gradient for each variable wrt f)
 def dfbydz(df_by_dq, x, y, z, f, q):
     df_by_dz = q
     print(f"df_by_dz: {df_by_dz}")
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     main()
 
 
-###Back propagation 2 (HARD CODE)
+###Back propagation 2 
 def dfbydw(df_by_dr, x, y, z, w, q, r, s, f):
     dr_dw = 0
     df_by_dw = df_by_dr * dr_dw
