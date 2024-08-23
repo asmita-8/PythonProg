@@ -1,6 +1,6 @@
 ###calculate the final activation function(XOR FUNCTION)for a neural network having
 ###1 hidden layer(2 nodes)and 1 output layer(1 node) for which weights and biases are given.
-###FNN
+###FFN
 import numpy as np
 def sigmoid(z):
     return 1 / (1 + np.exp(-z))
