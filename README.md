@@ -5,3 +5,4 @@ Asmita Mukherjee
 2. dl2.py: FFN-->calculation of the final activation function(XOR FUNCTION)for a neural network having 1 hidden layer(2 nodes)and 1 output layer(1 node) for which weights and biases are given.
 3. dl3.py: FFN + Backpropagation
 4. dl4.py: Quickstart-pytorch
+5. dl5.py: Convolutional operation + Max pooling
