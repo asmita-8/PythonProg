@@ -8,3 +8,4 @@ Asmita Mukherjee
 5. dl5.py: Convolutional operation + Max pooling
 6. dl6.py: Datasets and Dataloaders(FashionMNIST dataset)--->Pytorch tutorial
 7. dl7.py: CNN(CIFAR10 dataset)--->Pytorch tutorial
+8. dl8.py: Full neural network implementation from scratch
