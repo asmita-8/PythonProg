@@ -12,4 +12,5 @@ Asmita Mukherjee
 9. dl9.py: RNN(scratch + using tensorflow + in MNIST dataset)--->RNN tutorial
 10. dl10.py: program to simulate vanishing & exploding gradient problems
 11. dl11.py: Gan--->Tutorial
+12. dl12.py: ia2 mock(Q1 and Q2)
     
