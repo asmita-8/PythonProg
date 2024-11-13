@@ -10,3 +10,6 @@ Asmita Mukherjee
 7. dl7.py: CNN(CIFAR10 dataset)--->Pytorch tutorial
 8. dl8.py: Full neural network implementation and plotting it over 1000 iteration[2 layer + 3 layer(XOR)]--->From scratch 
 9. dl9.py: RNN(scratch + using tensorflow + in MNIST dataset)--->RNN tutorial
+10. dl10.py: program to simulate vanishing & exploding gradient problems
+11. dl11.py: Gan--->Tutorial
+    
